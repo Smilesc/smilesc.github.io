@@ -62,3 +62,5 @@ google_analytics:
 # theme: jekyll-theme-prologue
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
+
+theme: jekyll-theme-slate
